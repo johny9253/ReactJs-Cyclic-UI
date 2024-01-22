@@ -1,0 +1,70 @@
+{
+    "products": [
+        {
+            "title": "soap",
+          "slug":"taste in every bite..",
+          "description": " Cadbury Dairy Milk Silk is all about regaling in the richness and creaminess of the chocolate. The classic taste of Cadbury chocolates offers you the reason to celebrate every small and big occasion of happiness. In short, Indulge in a rich, smooth and creamy celebration.",
+          "price": 200,
+          "category": "chocolate",
+          "brand": "cadbory",
+          "quantity": 500,
+          "sold":100 ,
+          "images": [
+                {
+              "public_id": "img-3",
+              "url": "images/chocolate1.png"
+                },
+                {
+                  "public_id": "img-4",
+                  "url":"images/chocolate2.png"                  
+                }
+            ],
+          "color": [],
+          "tags": "",
+          "ratings": [
+                {
+              "star": 4,
+              "comment": "best product",
+              "postedby": "deepak singh"
+                }
+            ],
+          "totalrating": {
+            "type": "user",
+                "default": 5
+            }
+        },
+        {
+            "title": "Ferraro Rochers",
+          "slug":"Best porse chocolte..",
+          "description": " Cadbury Dairy Milk Silk is all about regaling in the richness and creaminess of the chocolate. The classic taste of Cadbury chocolates offers you the reason to celebrate every small and big occasion of happiness. In short, Indulge in a rich, smooth and creamy celebration.",
+          "price": 200,
+          "category": "chocolate",
+          "brand": "Ferraro",
+          "quantity": 500,
+          "sold":100 ,
+          "images": [
+                {
+              "public_id": "img-1",
+              "url":"images/chocolate1.png"              
+                },
+                {
+                  "public_id": "img-2",
+                  "url":"images/chocolate2.png"                  
+                }
+            ],
+          "color": [],
+          "tags": "",
+          "ratings": [
+                {
+              "star": 4,
+              "comment": "best product",
+              "postedby": "deepak singh"
+                }
+            ],
+          "totalrating": {
+            "type": "user",
+                "default": 5
+            }
+        }
+    ]
+}
